@@ -5,4 +5,4 @@
 
 print("Hello World")<br>
 
-Anything within the () would be outputed in this case Hello World<br>
+Anything within the ( ) would be outputed in this case Hello World<br>
