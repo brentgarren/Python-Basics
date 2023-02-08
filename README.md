@@ -13,4 +13,4 @@ when printing a string ( ) we need to include the " "
 
 # Mathematical Operators
 
-OPERATOR SYMBOL EXAMPLE
+OPERATOR | SYMBOL | EXAMPLE
