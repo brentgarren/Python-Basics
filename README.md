@@ -15,9 +15,9 @@ when printing a string ( ) we need to include the " "
 
 OPERATOR | SYMBOL | EXAMPLE <br>
 
-ADDITION       |  +  | 1 + 1 = 2 <br>
-SUBTRACTION    |  -  | 5 - 1 = 4 <br>
-MULTIPLICATION |  *  | 10 * 10 = 100 <br>
-DIVISION       |  /  | 10 / 2 = 5 <br>
-MODULUS        |  %  | 10 % 2 = 0 <br>
-EXPONENTIAL    |  ** | 5**2  = 25 (52) <br>
+ADDITION       |  +  | 1 + 1 = 2 <br><br>
+SUBTRACTION    |  -  | 5 - 1 = 4 <br><br>
+MULTIPLICATION |  *  | 10 * 10 = 100 <br><br>
+DIVISION       |  /  | 10 / 2 = 5 <br><br>
+MODULUS        |  %  | 10 % 2 = 0 <br><br>
+EXPONENTIAL    |  ** | 5**2  = 25 (52) <br><br>
