@@ -21,6 +21,25 @@ MULTIPLICATION |  *  | 10 * 10 = 100 <br>
 DIVISION       |  /  | 10 / 2 = 5 <br>
 MODULUS        |  %  | 10 % 2 = 0 <br>
 EXPONENTIAL    |  ** | 5**2  = 25 (52) <br>
+
+Greater Than   | >   | 
+Less Than      | <   |
+Equal to       | ==  |
+Not Equal to   | !=  |
+Greater than or equal to  |>=|
+Less than or equal |<=|
 </pre><br>
 
 --------------------------------------
+Greater than
+>
+Less than
+<
+Equal to
+==
+Not Equal to
+!=
+Greater than or equal to
+>=
+Less than or equal
+<=
