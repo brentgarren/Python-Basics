@@ -163,7 +163,7 @@ print("You have spent:" + str(spent))
 --------------------------------------
 
 <h3>Files</h3>
-
+<pre>
 it's common to write a script and import or export it from a file; whether that be as a way to store the output of your script or to import a list of 100's of websites from a file to enumerate.
 
 f = open("file_name", "r")
@@ -180,3 +180,4 @@ f.close()
 f = open("demofile2.txt", "w") # Creating and writing to a new file
 f.write("demofile2 file created, with this content in!")
 f.close()
+</pre>
