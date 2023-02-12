@@ -60,3 +60,15 @@ List - Series of different data types stored in a collection
 
 </pre><br>
 ![image](https://user-images.githubusercontent.com/105601437/218305201-feee43b9-f392-4f49-a67a-72460c8aa7db.png)
+<br>
+
+# Boolen Operators
+<pre>
+Both conditions must be true for the statement to be true | AND |
+Only one condition of the statement needs to be true | OR |
+If a condition is the opposite of an argument	| NOT |
+<br>
+a = 1
+if a == 1 or a > 10:
+     print("a is either 1 or above 10")
+</pre>
