@@ -26,20 +26,8 @@ Greater Than   | >   |
 Less Than      | <   |
 Equal to       | ==  |
 Not Equal to   | !=  |
-Greater than or equal to  |>=|
-Less than or equal |<=|
+Greater than or equal to  | >= |
+Less than or equal | <= |
 </pre><br>
 
 --------------------------------------
-Greater than
->
-Less than
-<
-Equal to
-==
-Not Equal to
-!=
-Greater than or equal to
->=
-Less than or equal
-<=
