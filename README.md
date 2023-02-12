@@ -131,7 +131,7 @@ You could have a function to work out a calculation such as the distance between
 <br>
 def sayHello(name):
      print("Hello " + name + "! Nice to meet you.")
-
 sayHello("ben") # Output is: Hello Ben! Nice to meet you
 <br>
+
 </pre>
