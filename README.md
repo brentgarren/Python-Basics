@@ -50,4 +50,4 @@ Age = age + 1
 Print(age)
 </pre>
 
-<h1>Data Types</h1>
+<h3>Data Types</h3>
