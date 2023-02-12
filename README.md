@@ -57,6 +57,6 @@ Integer - Whole Numbers
 Float - Numbers that contain decimals or fractions
 Boolean - Used for data that is restricted as either true or false
 List - Series of different data types stored in a collection
-![image](https://user-images.githubusercontent.com/105601437/218305201-feee43b9-f392-4f49-a67a-72460c8aa7db.png)
 
 </pre>
+![image](https://user-images.githubusercontent.com/105601437/218305201-feee43b9-f392-4f49-a67a-72460c8aa7db.png)
