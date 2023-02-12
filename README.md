@@ -35,4 +35,7 @@ Less than or equal | <= |
 # Variables
 
 Variables allow you to store and update data in a computer program. You have a variable name and store data to that name.<br>
-Example: | Fruit = Apple |
+Example: 
+  | Fruit = Apple |
+  | Leaves = 15 |
+
