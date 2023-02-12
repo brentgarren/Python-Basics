@@ -80,3 +80,5 @@ elif name == "bob" and not hungry:
 else: # If all other if conditions are not met
      print("Not sure who this is or if they are hungry") 
 </pre>
+<br>
+# Loops
