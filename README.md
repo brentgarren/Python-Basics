@@ -21,4 +21,6 @@ MULTIPLICATION |  *  | 10 * 10 = 100 <br>
 DIVISION       |  /  | 10 / 2 = 5 <br>
 MODULUS        |  %  | 10 % 2 = 0 <br>
 EXPONENTIAL    |  ** | 5**2  = 25 (52) <br>
-</pre>
+</pre><br>
+
+--------------------------------------
