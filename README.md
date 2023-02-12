@@ -82,6 +82,7 @@ else: # If all other if conditions are not met
 </pre>
 <br>
 # Loops
+
 <pre>
 There are 2 types of Loops - | For | and | while | 
 While loops - We can have the loop run indefinitely or (similar to an if statement) determine how many times the loop should run based on a condition.
