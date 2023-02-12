@@ -142,6 +142,7 @@ A colon : marks the end of the function header.
 In the function, notice the indentation. Similar to if statements, anything after the colons that is indented is considered part of the function.
 
 A function can also return a result, see the code block below:
+<pre>
   def calcCost(item):
      if(item == "sweets"):
           return 3.99
@@ -153,4 +154,5 @@ A function can also return a result, see the code block below:
 spent = 10
 spent = spent + calcCost("sweets")
 print("You have spent:" + str(spent))
+</pre>
 </pre>
