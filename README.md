@@ -81,14 +81,24 @@ else: # If all other if conditions are not met
      print("Not sure who this is or if they are hungry") 
 </pre>
 <br>
-# Loops
+# <h3>Loops</h3>
 
 <pre>
 There are 2 types of Loops - | For | and | while | 
-While loops - We can have the loop run indefinitely or (similar to an if statement) determine how many times the loop should run based on a condition.
+<h4> While Loops</h4>
+We can have the loop run indefinitely or (similar to an if statement) determine how many times the loop should run based on a condition.
   Example<br>
   i = 1
 while i <= 10:
      print(i)
      i = i + 1
+<br>
+This while loop will run 10 times, outputting the value of the i variable each time it iterates (loops). Let's break this down:
+
+The i variable is set to 1
+The while statement specifies where the start of the loop should begin
+Every time it loops, it will start at the top (outputting the value of i)
+Then it goes to the next line in the loop, which increases the value of i by 1
+Then (as there is no more code for the program to execute), it goes to the top of the loop, starting the process over again
+The program will keep on looping until the value of the i variable is greater than 10<br>
 </pre><br>
