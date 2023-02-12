@@ -133,5 +133,24 @@ def sayHello(name):
      print("Hello " + name + "! Nice to meet you.")
 sayHello("ben") # Output is: Hello Ben! Nice to meet you
 <br>
+There are some key components we can note from this function:
 
+The def keyword indicates the beginning of a function. The function is followed by a name that the programmer defines (and is a function parameter). In our example, it's sayHello.
+Following the function name is a pair of parenthesis () that holds input values, data that we can pass into the function. In our example, it's a name.
+A colon : marks the end of the function header.
+
+In the function, notice the indentation. Similar to if statements, anything after the colons that is indented is considered part of the function.
+
+A function can also return a result, see the code block below:
+  def calcCost(item):
+     if(item == "sweets"):
+          return 3.99
+     elif (item == "oranges"):
+          return 1.99
+     else:
+          return 0.99
+
+spent = 10
+spent = spent + calcCost("sweets")
+print("You have spent:" + str(spent))
 </pre>
