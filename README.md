@@ -51,3 +51,10 @@ Print(age)
 </pre>
 
 <h3>Data Types</h3>
+<pre>
+String - Used for combinations of characters, such as letters or symbols
+Integer - Whole Numbers
+Float - Numbers that contain decimals or fractions
+Boolean - Used for data that is restricted as either true or false
+List - Series of different data types stored in a collection
+</pre>
