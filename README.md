@@ -120,3 +120,18 @@ In Python, we can also iterate through a range of numbers using the range functi
 for i in range(5):
      print(i)
 </pre><br>
+
+-------------------------------------
+
+<h1>Introduction to Funcations</h1>
+<pre>
+ A function is a block of code that can be called at different places in your program.
+
+You could have a function to work out a calculation such as the distance between two points on a map or output formatted text based on certain conditions. Having functions removes repetitive code, as the function's purpose can be used multiple times throughout a program.
+<br>
+def sayHello(name):
+     print("Hello " + name + "! Nice to meet you.")
+
+sayHello("ben") # Output is: Hello Ben! Nice to meet you
+<br>
+</pre>
