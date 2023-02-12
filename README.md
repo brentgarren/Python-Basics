@@ -156,4 +156,5 @@ spent = spent + calcCost("sweets")
 print("You have spent:" + str(spent))
 </pre>
 </pre>
-<br>![image](https://user-images.githubusercontent.com/105601437/218307238-4075ad37-9c17-48fb-a858-d9be8cdd014c.png)
+<br>
+![image](https://user-images.githubusercontent.com/105601437/218307238-4075ad37-9c17-48fb-a858-d9be8cdd014c.png)
