@@ -180,4 +180,6 @@ f.close()
 f = open("demofile2.txt", "w") # Creating and writing to a new file
 f.write("demofile2 file created, with this content in!")
 f.close()
+
+Notice we use the close() method after writing to a file; this closes the file so no more writing to the file (within the program) can occur.
 </pre>
