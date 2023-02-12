@@ -39,3 +39,7 @@ Variables allow you to store and update data in a computer program. You have a v
   | Fruit = Apple |
   | Leaves = 15 |
 </pre>
+
+In the example above, we have 2 variables. The variable name "fruit" stores the string (words) ice cream, while another variable called "leaves" stores a number (2000).
+
+Variables are powerful as you can change them throughout your program. The following example sets the age variable to 30, then we increase this age variable by 1, making the final variable data 31.
