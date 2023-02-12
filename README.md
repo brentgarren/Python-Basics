@@ -82,3 +82,5 @@ else: # If all other if conditions are not met
 </pre>
 <br>
 # Loops
+
+There are 2 types of Loops - | For | and | while |
